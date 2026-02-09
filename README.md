@@ -108,7 +108,7 @@ If you like this project, don’t forget to give it a ⭐ on GitHub!
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/USERNAME/Items-API-EXPRESS.git
+git clone https://github.com/MohammedWalid22/Items-API-EXPRESS.git
 2️⃣ Install dependencies
 npm install
 3️⃣ Run the server
@@ -116,3 +116,4 @@ npm run dev
 Server will run on:
 
 http://localhost:3000
+
