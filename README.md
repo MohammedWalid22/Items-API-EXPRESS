@@ -73,6 +73,37 @@ DELETE /items/:id
 
 ---
 
+
+## 🧪 Testing
+
+You can test the API using:  
+- Postman  
+- Thunder Client  
+- PowerShell  
+
+---
+
+## 📈 Future Improvements
+
+- Replace file-based storage with MongoDB  
+- Add authentication and authorization  
+- Add pagination and filtering  
+- Add unit tests  
+
+---
+
+## 👨‍💻 Author
+
+Mohammed Waleed  
+Backend Developer (Node.js)  
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to give it a ⭐ on GitHub!
+
+---
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
@@ -85,27 +116,3 @@ npm run dev
 Server will run on:
 
 http://localhost:3000
-🧪 Testing
-You can test the API using:
-
-Postman
-
-Thunder Client
-
-PowerShell
-
-📈 Future Improvements
-Replace file-based storage with MongoDB
-
-Add authentication and authorization
-
-Add pagination and filtering
-
-Add unit tests
-
-👨‍💻 Author
-Mohammed Waleed
-Backend Developer (Node.js)
-
-⭐ Support
-If you like this project, don’t forget to give it a ⭐ on GitHub!
